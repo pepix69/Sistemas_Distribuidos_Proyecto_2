@@ -1,0 +1,7 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pymongo==4.4.0
+pydantic==1.11.1
+python-dotenv==0.21.0
+bson==0.5.10
+passlib[bcrypt]==1.7.4
