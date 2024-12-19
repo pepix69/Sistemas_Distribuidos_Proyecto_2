@@ -1,5 +1,8 @@
 # Sistema de Gestión Escolar
 
+## Video de prueba
+https://youtu.be/-6iC714SaoY
+
 ## Descripción
 
 Este sistema permite gestionar la información de estudiantes, profesores y materias en una institución educativa mediante una API RESTful desarrollada con FastAPI. Los datos se almacenan en una base de datos MongoDB y se maneja un sistema de identificadores únicos autogenerados para cada registro. Además, el sistema incluye operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para las entidades principales.
