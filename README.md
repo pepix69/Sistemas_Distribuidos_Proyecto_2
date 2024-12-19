@@ -72,10 +72,11 @@ El objetivo principal de este sistema es ofrecer una solución eficiente y flexi
 
 1. El sistema utiliza una base de datos llamada proyecto_II.
 2. Las colecciones principales son:
-   - alumnos
-   - profesores
-   - materias
-   - contadores: Utilizada para gestionar los IDs autogenerados de cada colección.
+   - students
+   - professors
+   - subjects
+   - enrollments
+   - users: Utilizada para almacenar usuarios creados, los cuales tienen diferentes permisos.
 3. La inicialización de la base de datos incluye la creación de los contadores si no existen.
 
 ## Requisitos del Sistema
